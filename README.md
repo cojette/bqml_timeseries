@@ -3,7 +3,7 @@
 ### by JeongMin Kwon (cojette@gmail.com)
 
 This notebook shows you how to train, deploy, evaluate a time series model, and some application for time-series forecasting by using BigQuery ML. 
-Using the public [Iowa Liquor Sales data](https://console.cloud.google.com/marketplace/details/obfuscated-ga360-data/obfuscated-ga360-data?filter=solution-type:dataset) dataset, you use a single SQL query to create multiple time series models, where each model forecasts the retail sales of a single liquor product. 
+Using the public [Iowa Liquor Sales data](https://console.cloud.google.com/marketplace/product/iowa-department-of-commerce/iowa-liquor-sales?q=search&referrer=search&project=bqmltest-422606) dataset, you use a single SQL query to create multiple time series models, where each model forecasts the retail sales of a single liquor product. 
 
 By the end of this notebook, you will know how to:
 * Pre-process time series data into the correct format needed to create the model.
